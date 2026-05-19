@@ -21,7 +21,7 @@ staff management, patient records, appointments, admissions, and room allocation
 - Medical_Record > diagnoses and treatment records
 - Admission > patient admissions and discharge info
 - Nurse_Admission > nurses assigned to admissions
-- Phones > Patient_Phones — multi-valued phone numbers
+- Phones/Patient_Phones > multi-valued phone numbers
 
 ##  Features
 - Role-based staff specialization using a shared Staff base table
