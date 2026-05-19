@@ -1,6 +1,6 @@
 #  Hospital Management System Database
 
-A relational database schema for a hospital management system 
+A relational database schema for a hospital management system done as part of a team project
 designed using Oracle SQL
 
 ##  About
