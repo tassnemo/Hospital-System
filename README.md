@@ -41,6 +41,6 @@ staff management, patient records, appointments, admissions, and room allocation
 3. Open `hospital.sql`
 4. Run the script
 
-## 📁 Files
+##  Files
 - `hospital.sql` — full schema with tables, inserts, and queries
 - `Schema.pdf` — ERD diagram of the database
