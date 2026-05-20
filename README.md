@@ -1,11 +1,12 @@
 #  Hospital Management System Database
-
-A relational database schema for a hospital management system done as part of a team project
-designed using Oracle SQL
+A relational database schema modeling the full operational workflow of a hospital 20+ tables covering staff hierarchy, patient records, clinical appointments, admissions, and room management. Designed and built using Oracle SQL.
 
 ##  About
 This project models a fully structured hospital database covering 
 staff management, patient records, appointments, admissions, and room allocation.
+
+<img width="1545" height="910" alt="Schema (2) pdf - Personal - Microsoft​ Edge 5_20_2026 11_34_24 PM" src="https://github.com/user-attachments/assets/e8f09b6d-406f-4f60-881c-728eb5a880ad" />
+
 
 ## Tables
 - Staff > base table for all hospital staff
