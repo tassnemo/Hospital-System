@@ -43,4 +43,4 @@ staff management, patient records, appointments, admissions, and room allocation
 
 ##  Files
 - `hospital.sql` — full schema with tables, inserts, and queries
-- `Schema.pdf` — ERD diagram of the database
+- `Schema.pdf` — Relational Schema of the database
