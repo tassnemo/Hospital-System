@@ -39,5 +39,5 @@ A relational database schema modeling the full operational workflow of a hospita
 4. Run the script
 
 ##  Files
-- `hospital.sql` — full schema with tables, inserts, and queries
+- `hospital.sql` — full schema with tables, inserts, and constraints
 - `Schema.pdf` — Relational Schema of the database
